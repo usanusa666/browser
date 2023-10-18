@@ -1,1 +1,2 @@
 # browser
+* # its an browser
